@@ -15,12 +15,12 @@
 
 
 ### Person
-- 面白[おもしろ]い (interesting, fun, funny)
+- 面[おも]白[しろ]い (interesting, fun, funny)
 - かっこいい (cool, good-looking, stylish)
 - 優[やさ]しい (kind, easy, nice)
 - かわいい (cute, pretty)
 - あたまがいい (smart)
-- 有名[ゆうめい] (famous)
+- 有[ゆう]名[めい] (famous)
 - うるさい (noisy)
 - 忙[いそが]しい (busy)
 

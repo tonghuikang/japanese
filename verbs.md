@@ -1,8 +1,7 @@
 ### Actions
 
-- 見 (see)
+- 見[み] (see)
 - し (play)
-- 読み (read)
-- きき (listen)
-- 飲み (drink)
-- たべ (eat)
+- 読[よ]み (read)
+- 飲[の]み (drink)
+- 食[た]べ (eat)
