@@ -28,6 +28,24 @@
 - がくせい (student, students)
 - べんごし (lawyer, lawyers)
 - いしゃ (doctor, doctors)
+- エンジニア (engineer)
+- だいがくせい (college student)
+- かんごし (nurse)
+- かいしゃいん (office worker)
+
+
+### Relationship
+- 家族[かぞく] (family)
+- 父[] (father)
+- 母[はは] (mother)
+- むすこ (son)
+- むすめ (daughter)
+- つま (wife)
+- おっと (husband)
+- おとうと (younger brother)
+- あに (older brother)
+- あね (older sister)
+- いもうと (younger sister)
 
 
 ### Locations
@@ -59,5 +77,14 @@
 - アメリカじん (American)
 
 
+### Media
+- えいが (movies)
+- テレビ (TV)
+
+
 ### Names
 - 田中 (Tanaka)
+
+
+### Unclassified
+- さい (years old)

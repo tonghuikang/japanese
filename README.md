@@ -7,6 +7,7 @@
 - と (and, with)
 - の (of, 's)
 - に (to, at, in)
+- を (through, with, for)
 
 
 ### Demonstratives

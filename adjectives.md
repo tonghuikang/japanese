@@ -1,6 +1,7 @@
 ### Modifiers
 - も (even, any, also)
 - とても (very)
+- よく (often)
 
 
 ### Size
@@ -18,6 +19,10 @@
 - かっこいい (cool, good-looking, stylish)
 - やさしい (kind, easy, nice)
 - かわいい (cute, pretty)
+- あたまがいい (smart)
+- ゆうめい (famous)
+- うるさい (noisy)
+- いそがしい (busy)
 
 
 ### Ambience
