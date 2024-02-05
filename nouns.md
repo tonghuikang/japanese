@@ -1,15 +1,15 @@
 ### Items
 - かばん (bag)
-- ちず (map)
+- 地図[ちず] (map)
 - パスポート (passport)
 - スマホ (smartphone)
-- きっぷ (ticket)
+- 切符[きっぷ] (ticket)
 
 
 ### Apparel
-- くつ (shoes)
+- 靴[くつ] (shoes)
 - コート (coat)
-- ぼうし (hat)
+- 帽子[ぼうし] (hat)
 
 
 ### Food and Beverages
@@ -17,35 +17,35 @@
 - ピザ (pizza)
 - ラーメン (ramen)
 - カレー (curry)
-- ごはん (rice, meal)
-- すし (sushi)
-- おちゃ (tea)
+- ご 飯[はん] (rice, meal)
+- 寿司[すし] (sushi)
+- お茶[ちゃ] (tea)
 
 
 ### Professions
-- ひと (person, people)
-- せんせい (teacher, Professor, teachers)
-- がくせい (student, students)
-- べんごし (lawyer, lawyers)
-- いしゃ (doctor, doctors)
+- 人[ひと] (person, people)
+- 先生[せんせい] (teacher, Professor, teachers)
+- 学生[がくせい] (student, students)
+- 弁護士[べんごし] (lawyer, lawyers)
+- 医者[いしゃ] (doctor, doctors)
 - エンジニア (engineer)
-- だいがくせい (college student)
-- かんごし (nurse)
-- かいしゃいん (office worker)
+- 大学生[だいがくせい] (college student)
+- 看護師[かんごし] (nurse)
+- 会社員[かいしゃいん] (office worker)
 
 
 ### Relationship
 - 家族[かぞく] (family)
-- 父[] (father)
+- 父[ちち] (father)
 - 母[はは] (mother)
-- むすこ (son)
-- むすめ (daughter)
-- つま (wife)
-- おっと (husband)
-- おとうと (younger brother)
-- あに (older brother)
-- あね (older sister)
-- いもうと (younger sister)
+- 息子[むすこ] (son)
+- 娘[むすめ] (daughter)
+- 妻[つま] (wife)
+- 夫[おっと] (husband)
+- 弟[おとうと] (younger brother)
+- 兄[あに] (older brother)
+- 姉[あね] (older sister)
+- 妹[いもうと] (younger sister)
 
 
 ### Locations
@@ -54,14 +54,14 @@
 
 
 ### Places
-- ちかてつ (subway)
-- くうこう (airport)
-- えき (train station)
+- 地下鉄[ちかてつ] (subway)
+- 空港[くうこう] (airport)
+- 駅[えき] (train station)
 - バスてい (bus stop)
 - デパート (department store)
 - ホテル (hotel)
 - コンビニ (convenience store)
-- だいがく (university, college)
+- 大学[だいがく] (university, college)
 
 
 ### Nations and Nationalities
@@ -69,8 +69,8 @@
 - ブラジルじん (Brazilian)
 - イギリスじん (British)
 - イギリス (Britain, the United Kingdom)
-- にほん (Japan)
-- にほんじん (Japanese)
+- 日本[にほん] (Japan)
+- 日本人[にほんじん] (Japanese)
 - カナダ (Canada)
 - カナダじん (Canadian)
 - アメリカ (America, the USA)
@@ -78,13 +78,14 @@
 
 
 ### Media
-- えいが (movies)
+- 映画[えいが] (movies)
 - テレビ (TV)
 
 
 ### Names
-- 田中 (Tanaka)
+- 田中[たなか] (Tanaka)
+- Nakayama
 
 
 ### Unclassified
-- さい (years old)
+- 歳[さい] (years old)

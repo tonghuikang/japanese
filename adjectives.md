@@ -5,30 +5,30 @@
 
 
 ### Size
-- ちいさい (small, little)
-- おおきい (big, large)
+- 小[ちい]さい (small, little)
+- 大[おお]きい (big, large)
 
 
 ### Colors
-- しろい (white)
-- あかい (red)
+- 白[しろ]い (white)
+- 赤[あか]い (red)
 
 
 ### Person
-- おもしろい (interesting, fun, funny)
+- 面白[おもしろ]い (interesting, fun, funny)
 - かっこいい (cool, good-looking, stylish)
-- やさしい (kind, easy, nice)
+- 優[やさ]しい (kind, easy, nice)
 - かわいい (cute, pretty)
 - あたまがいい (smart)
-- ゆうめい (famous)
+- 有名[ゆうめい] (famous)
 - うるさい (noisy)
-- いそがしい (busy)
+- 忙[いそが]しい (busy)
 
 
 ### Ambience
 - きれい (clean)
-- しずか (quiet)
-- にぎやか (lively)
+- 静[しず]か (quiet)
+- 賑[にぎ]やか (lively)
 
 
 ### Food
