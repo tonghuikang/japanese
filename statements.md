@@ -2,9 +2,9 @@
 
 ちかてつ は どこ です か？  (Where is the subway?)
 
-出身[しゅっしん] は どこ です か？ (Where are you from?)
+出[しゅっ]身[しん] は どこ です か？ (Where are you from?)
 
-私 京都 出身[しゅっしん] です。 (I'm from Kyoto)
+私 京都 出[しゅっ]身[しん] です。 (I'm from Kyoto)
 
 トロント に 住[す]ん で います か？ (Do you live in Toronto?)
 
